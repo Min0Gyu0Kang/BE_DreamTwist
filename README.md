@@ -26,8 +26,8 @@
 | :-------: | :-------: | :-------------- |
 | 박수정 | 팀장 / 백엔드 | - 동화 스토리 직접 생성<br/> - 금지어 크롤링 및 설정<br/> - 동화 및 프로필 이미지 업로드<br/> - 구글 소셜 로그인 및 회원 기능|
 | 강민규 | 백엔드 | - 동화 스토리 조회, 수정, 삭제<br/> - 동화 좋아요, 조회수<br/> - 동화 검색 기능 |
-| 원경혜 | 백엔드, AI | - AI 동화 줆거리 생성 모델 학습 및 api 작성<br/> - AI 동화 이미지 생성<br/> - AI 동화 줄거리 생성을 위한 프롬프트 번역<br/> - AI 이미지 생성 api 연동<br/> - 동화책 댓글 생성, 조회, 수정, 삭제 |
-| 이유민 | 백엔드, AI | - AI 동화 줆거리 생성 모델 학습 및 api 작성<br/> - AI 동화 줄거리 기반 주제 및 제목 생성/<br/> - 동화 생성 AI api 연동<br/> - 동화 생성을 위한 결제 및 포인트 기능<br/> - 백엔드, AI 배포 |
+| 원경혜 | 백엔드, AI | - AI 동화 줄거리 생성 모델 학습 및 api 작성<br/> - AI 동화 이미지 생성<br/> - AI 동화 줄거리 생성을 위한 프롬프트 번역<br/> - AI 이미지 생성 api 연동<br/> - 동화책 댓글 생성, 조회, 수정, 삭제 |
+| 이유민 | 백엔드, AI | - AI 동화 줄거리 생성 모델 학습 및 api 작성<br/> - AI 동화 줄거리 기반 주제 및 제목 생성<br/> - 동화 생성 AI api 연동<br/> - 동화 생성을 위한 결제 및 포인트 기능<br/> - 백엔드, AI 배포 |
 | 임도헌 | 프론트엔드 | - 동화 생성 기능(줄거리, 이미지 파일첨부, 그림판, AI 이미지)<br/> - 동화 편집 기능<br/> - 그림판 기능<br/> - 프론트엔드 배포 |
 | 나경윤 | 프론트엔드 | - 동화 검색<br/> - 동화 게시판 및 동화 삭제<br/> - 회원 기능 및 마이페이지<br/> - 동화책 댓글 생성, 조회, 수정, 삭제 |
 | 김민규 | 프론트엔드 | - AI 동화 및 직접 생성 페이지<br/> - 동화 생성을 위한 결제 및 포인트 기능 |
@@ -44,7 +44,7 @@
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat&logo=Hugging Face&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=flat" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white" />
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
     </td>
